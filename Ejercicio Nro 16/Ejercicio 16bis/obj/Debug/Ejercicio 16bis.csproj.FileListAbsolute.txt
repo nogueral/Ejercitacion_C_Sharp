@@ -1,0 +1,7 @@
+C:\Users\CX SLIM\source\repos\TemaClases\Ejercicio 16bis\bin\Debug\Ejercicio 16bis.exe.config
+C:\Users\CX SLIM\source\repos\TemaClases\Ejercicio 16bis\bin\Debug\Ejercicio 16bis.exe
+C:\Users\CX SLIM\source\repos\TemaClases\Ejercicio 16bis\bin\Debug\Ejercicio 16bis.pdb
+C:\Users\CX SLIM\source\repos\TemaClases\Ejercicio 16bis\obj\Debug\Ejercicio 16bis.csprojAssemblyReference.cache
+C:\Users\CX SLIM\source\repos\TemaClases\Ejercicio 16bis\obj\Debug\Ejercicio 16bis.csproj.CoreCompileInputs.cache
+C:\Users\CX SLIM\source\repos\TemaClases\Ejercicio 16bis\obj\Debug\Ejercicio 16bis.exe
+C:\Users\CX SLIM\source\repos\TemaClases\Ejercicio 16bis\obj\Debug\Ejercicio 16bis.pdb

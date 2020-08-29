@@ -1,0 +1,7 @@
+C:\Users\CX SLIM\Documents\Programas_C#\Ejercicio Nro 9\Ejercicio Nro 9\bin\Debug\Ejercicio Nro 9.exe.config
+C:\Users\CX SLIM\Documents\Programas_C#\Ejercicio Nro 9\Ejercicio Nro 9\bin\Debug\Ejercicio Nro 9.exe
+C:\Users\CX SLIM\Documents\Programas_C#\Ejercicio Nro 9\Ejercicio Nro 9\bin\Debug\Ejercicio Nro 9.pdb
+C:\Users\CX SLIM\Documents\Programas_C#\Ejercicio Nro 9\Ejercicio Nro 9\obj\Debug\Ejercicio Nro 9.csprojAssemblyReference.cache
+C:\Users\CX SLIM\Documents\Programas_C#\Ejercicio Nro 9\Ejercicio Nro 9\obj\Debug\Ejercicio Nro 9.csproj.CoreCompileInputs.cache
+C:\Users\CX SLIM\Documents\Programas_C#\Ejercicio Nro 9\Ejercicio Nro 9\obj\Debug\Ejercicio Nro 9.exe
+C:\Users\CX SLIM\Documents\Programas_C#\Ejercicio Nro 9\Ejercicio Nro 9\obj\Debug\Ejercicio Nro 9.pdb
