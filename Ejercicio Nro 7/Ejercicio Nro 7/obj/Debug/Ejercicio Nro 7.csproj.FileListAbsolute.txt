@@ -5,3 +5,10 @@ C:\Users\CX SLIM\Documents\Programas_C#\Ejercicio Nro 7\Ejercicio Nro 7\obj\Debu
 C:\Users\CX SLIM\Documents\Programas_C#\Ejercicio Nro 7\Ejercicio Nro 7\obj\Debug\Ejercicio Nro 7.csproj.CoreCompileInputs.cache
 C:\Users\CX SLIM\Documents\Programas_C#\Ejercicio Nro 7\Ejercicio Nro 7\obj\Debug\Ejercicio Nro 7.exe
 C:\Users\CX SLIM\Documents\Programas_C#\Ejercicio Nro 7\Ejercicio Nro 7\obj\Debug\Ejercicio Nro 7.pdb
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio Nro 7\Ejercicio Nro 7\bin\Debug\Ejercicio Nro 7.exe.config
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio Nro 7\Ejercicio Nro 7\bin\Debug\Ejercicio Nro 7.exe
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio Nro 7\Ejercicio Nro 7\bin\Debug\Ejercicio Nro 7.pdb
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio Nro 7\Ejercicio Nro 7\obj\Debug\Ejercicio Nro 7.csprojAssemblyReference.cache
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio Nro 7\Ejercicio Nro 7\obj\Debug\Ejercicio Nro 7.csproj.CoreCompileInputs.cache
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio Nro 7\Ejercicio Nro 7\obj\Debug\Ejercicio Nro 7.exe
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio Nro 7\Ejercicio Nro 7\obj\Debug\Ejercicio Nro 7.pdb

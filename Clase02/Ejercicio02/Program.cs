@@ -11,34 +11,20 @@ namespace Ejercicio02
     {
         static void Main(string[] args)
         {
-            Animales[] listaAnimales = new Animales[3];
             int auxEdad;
-            float auxPeso;
+            double auxPeso;
+            bool validarEntrada;
             byte opcion;
             string auxNombre;
-
-            for (int i = 0; i < listaAnimales.Length; i++)
-            {
-                listaAnimales[i] = new Animales();
-
-                Console.Write("Ingrese tipo: ");
-                listaAnimales[i].SetTipo(Console.ReadLine());
-                Console.Write("Ingrese edad: ");
-                int.TryParse(Console.ReadLine(), out auxEdad);
-                listaAnimales[i].SetEdad(auxEdad);
-                Console.Write("Ingrese peso: ");
-                float.TryParse(Console.ReadLine(), out auxPeso);
-                listaAnimales[i].SetPeso(auxPeso);
-                Console.Write("Ingrese nombre: ");
-                listaAnimales[i].SetNombre(Console.ReadLine());
-            }
+            string auxTipo;
 
             do
             {
                 Console.WriteLine("********Veterinaria********");
-                Console.WriteLine("1. Mostrar informacion mascotas");
-                Console.WriteLine("2. Buscar mascota");
-                Console.WriteLine("3. Salir");
+                Console.WriteLine("1. Cargar mascota");
+                Console.WriteLine("2. Mostrar informacion mascotas");
+                Console.WriteLine("3. Buscar mascota");
+                Console.WriteLine("4. Salir");
                 Console.Write("Ingrese la opcion deseada: ");
                 byte.TryParse(Console.ReadLine(), out opcion);
                 Console.WriteLine("***************************");
@@ -46,73 +32,50 @@ namespace Ejercicio02
                 switch (opcion)
                 {
                     case 1:
-                        CacularPromedio(listaAnimales);
-                        PerroMasViejo(listaAnimales);
-                        FiltrarMascotas(listaAnimales);
-                        break;
-                    case 2:
-                        Console.Write("Por favor ingrese nombre de la mascota: ");
-                        auxNombre = Console.ReadLine();
-                        for (int i = 0; i < listaAnimales.Length; i++)
+                       do
                         {
-                            if(listaAnimales[i].GetNombre() == auxNombre)
-                            {
-                                Console.WriteLine($"Nombre: {listaAnimales[i].GetNombre()}");
-                                Console.WriteLine($"Tipo: {listaAnimales[i].GetTipo()}");
-                                Console.WriteLine($"Edad: {listaAnimales[i].GetEdad()}");
-                                Console.WriteLine($"Peso: {listaAnimales[i].GetPeso()}");
-                            }
+                            Console.Write("Ingrese tipo (perro o gato): ");
+                            auxTipo = Console.ReadLine();
+                        } while (!Validaciones.ValidarTipo(auxTipo));
+
+                        do
+                        {
+                            Console.Write("Ingrese peso (entre 1 y 100kg): ");
+                            validarEntrada = double.TryParse(Console.ReadLine(), out auxPeso);
+                        } while (!Validaciones.ValidarPeso(auxPeso) && validarEntrada);
+
+                        do
+                        {
+                            Console.Write("Ingrese edad (entre 1 y 25 años): ");
+                            validarEntrada = int.TryParse(Console.ReadLine(), out auxEdad);
+                        } while (!Validaciones.ValidarEdad(auxEdad) && validarEntrada);
+                       
+                        Console.Write("Ingrese nombre: ");
+                        auxNombre = Console.ReadLine();
+
+                        if(Veterinaria.CargarMascota(new Animales(auxTipo, auxNombre, auxPeso, auxEdad)))
+                        {
+                            Console.WriteLine("Carga correcta");
+                        }
+                        else
+                        {
+                            Console.WriteLine("Error de carga, verificar espacio disponible");
                         }
                         break;
+                    case 2:
+                        Veterinaria.CacularPromedio();
+                        Veterinaria.PerroMasViejo();
+                        Veterinaria.FiltrarMascotas();
+                        break;
+                    case 3:
+                        Console.Write("Por favor ingrese nombre de la mascota: ");
+                        Veterinaria.MostrarMascota(Console.ReadLine());
+                        break;
                 }
 
-            } while (opcion != 3);
+            } while (opcion != 4);
         }
 
-        static void CacularPromedio(Animales[] listaAnimales)
-        {
-            float promedio;
-            float acumuladorPesos = 0;
 
-            for (int i = 0; i < listaAnimales.Length; i++)
-            {
-                acumuladorPesos += listaAnimales[i].GetPeso();
-            }
-
-            promedio = acumuladorPesos / listaAnimales.Length;
-
-            Console.WriteLine($"El promedio de pesos es: {promedio}");
-        }
-
-        static void PerroMasViejo(Animales[] listaAnimales)
-        {
-            bool flag = true;
-            int mayorEdad=0;
-            string nombreMayor = "";
-
-            for (int i = 0; i < listaAnimales.Length; i++)
-            {
-                if(flag==true || mayorEdad < listaAnimales[i].GetEdad())
-                {
-                    flag = false;
-                    mayorEdad = listaAnimales[i].GetEdad();
-                    nombreMayor = listaAnimales[i].GetNombre();
-                }
-            }
-
-            Console.WriteLine($"El nombre del perro mas viejo es: {nombreMayor}");
-        }
-
-        static void FiltrarMascotas(Animales[] listaAnimales)
-        {
-            for (int i = 0; i < listaAnimales.Length; i++)
-            {
-                if(listaAnimales[i].GetPeso()<10 && listaAnimales[i].GetEdad() > 10)
-                {
-                    Console.WriteLine($"Nombre: {listaAnimales[i].GetNombre()}");
-                    Console.WriteLine($"Nombre: {listaAnimales[i].GetTipo()}");
-                }
-            }
-        }
     }
 }

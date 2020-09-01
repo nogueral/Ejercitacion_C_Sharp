@@ -14,7 +14,19 @@ namespace Ejercicio01
         private string usuario;
         private string clave;
         private int nroCuenta;
-        private float saldo;
+        private double saldo;
+
+        public Cliente(string nombre, string apellido, long dni, string usuario, string clave, int nroCuenta, double saldo)
+        {
+            this.nombre = nombre;
+            this.apellido = apellido;
+            this.dni = dni;
+            this.usuario = usuario;
+            this.clave = clave;
+            this.nroCuenta = nroCuenta;
+            this.saldo = saldo;
+
+        }
 
         public void SetNombre (string auxNombre)
         {
@@ -46,7 +58,7 @@ namespace Ejercicio01
             this.nroCuenta = auxNroCuenta;
         }
 
-        public void SetSaldo (int auxSaldo)
+        public void SetSaldo (double auxSaldo)
         {
             this.saldo = auxSaldo;
         }
@@ -76,7 +88,7 @@ namespace Ejercicio01
             return this.nroCuenta;
         }
 
-        public float GetSaldo()
+        public double GetSaldo()
         {
             return this.saldo;
         }
@@ -86,15 +98,6 @@ namespace Ejercicio01
             return this.dni;
         }
 
-        public static void ValidarUsers (ref string dato)
-        {
-            
-            while (string.IsNullOrEmpty(dato))
-            {
-                Console.Write("El dato ingresado no puede ser vacio o nulo, reingrese: ");
-                dato = Console.ReadLine();
-            }
-        }
 
         public void AgregarDinero (int auxSaldo)
         {

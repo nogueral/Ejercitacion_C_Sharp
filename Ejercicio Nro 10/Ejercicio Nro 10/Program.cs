@@ -12,27 +12,21 @@ namespace Ejercicio_Nro_10
         {
             Console.Title = "Ejercicio Nro 10";
 
-            int altura;
+            Console.WriteLine("Ingrese la altura de la piramide");
+            int altura = int.Parse(Console.ReadLine());
+            char asterisco = '*';
 
-            Console.Write("Ingrese la altura de la torre: ");
-            altura = int.Parse(Console.ReadLine());
-            string aux;
-
-            altura = altura * 2;
-
-            Console.WriteLine();
-
-            for (int i = 1; i <= altura; i += 2)
+            for (int i = 0; i <= altura; i++)
             {
-                aux = "";
-
-                for (int j = 1; j <= i; j++)
+                for (int j = 1; j <= altura - i; j++)
                 {
-                    aux += "*";
+                    Console.Write(" ");
                 }
-
-                Console.Write("{0,10}", aux);
-                Console.WriteLine();
+                for (int j = 1; j <= 2 * i - 1; j++)
+                {
+                    Console.Write(asterisco);
+                }
+                Console.WriteLine("");
             }
 
             Console.ReadKey();

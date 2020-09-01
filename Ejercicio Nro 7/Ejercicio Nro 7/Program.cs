@@ -18,17 +18,22 @@ namespace Ejercicio_Nro_7
         {
             Console.Title = "Ejercicio Nro 07";
 
-            int anioActual;
-            int anioNacimiento;
+            Console.Write("Por favor, ingrese dia de nacimiento: ");
+            int dia = int.Parse(Console.ReadLine());
 
-            Console.Write(DateTime.Now.Year);
+            Console.Write("Por favor, ingrese mes de nacimiento: ");
+            int mes = int.Parse(Console.ReadLine());
 
-            Console.Write("Por favor, ingrese dia: ");
+            Console.Write("Por favor, ingrese año de nacimiento: ");
+            int anio = int.Parse(Console.ReadLine());
+
+            DateTime fechaNacimiento = new DateTime(anio, mes, dia);
+            DateTime actual = DateTime.Now;
             
+            Console.WriteLine(actual);
+            Console.WriteLine(fechaNacimiento);
 
-
-            
-            Console.ReadKey();
+            Console.WriteLine("Dias vividos: {0, 0: #,###.00}", (actual - fechaNacimiento).TotalDays);
         }
     }
 }
