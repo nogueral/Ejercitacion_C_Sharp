@@ -58,7 +58,15 @@ namespace Ejercicio_Nro_16
             Console.WriteLine("Legajo: {0}", this.legajo);
             Console.WriteLine("Nota 1: {0}", this.nota1);
             Console.WriteLine("Nota 2: {0}", this.nota2);
-            Console.WriteLine("Nota Final: {0}", this.notaFinal);
+            if (this.notaFinal != -1)
+            {
+                Console.WriteLine("Nota Final: {0}", this.notaFinal);
+            }
+            else
+            {
+                Console.WriteLine("Nota Final: Alumno desaprobado");
+            }
+            
             Console.WriteLine("------------------------------------");
         }
 
