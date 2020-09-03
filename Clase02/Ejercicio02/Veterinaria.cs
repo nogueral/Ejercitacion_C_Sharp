@@ -15,6 +15,11 @@ namespace Ejercicio02
             listaAnimales = new Animales[5];
         }
 
+        /// <summary>
+        /// Realiza la carga de un objeto mascota a un array
+        /// </summary>
+        /// <param name="auxMascota"></param>
+        /// <returns> devuelve true si lo pudo hacer o false si no se pudo</returns>
         public static bool CargarMascota(Animales auxMascota)
         {
             bool retorno = false;
@@ -71,6 +76,9 @@ namespace Ejercicio02
             Console.WriteLine($"El nombre del perro mas viejo es: {nombreMayor}");
         }
 
+        /// <summary> muestra por consola mascotas mayores a 10 años que pesen menos de 10kg
+        /// 
+        /// </summary>
         public static void FiltrarMascotas()
         {
             for (int i = 0; i < listaAnimales.Length; i++)
