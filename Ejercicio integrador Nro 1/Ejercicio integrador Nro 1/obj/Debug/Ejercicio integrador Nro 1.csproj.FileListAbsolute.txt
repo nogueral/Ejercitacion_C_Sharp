@@ -1,0 +1,7 @@
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio integrador Nro 1\Ejercicio integrador Nro 1\bin\Debug\Ejercicio integrador Nro 1.exe.config
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio integrador Nro 1\Ejercicio integrador Nro 1\bin\Debug\Ejercicio integrador Nro 1.exe
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio integrador Nro 1\Ejercicio integrador Nro 1\bin\Debug\Ejercicio integrador Nro 1.pdb
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio integrador Nro 1\Ejercicio integrador Nro 1\obj\Debug\Ejercicio integrador Nro 1.csprojAssemblyReference.cache
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio integrador Nro 1\Ejercicio integrador Nro 1\obj\Debug\Ejercicio integrador Nro 1.csproj.CoreCompileInputs.cache
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio integrador Nro 1\Ejercicio integrador Nro 1\obj\Debug\Ejercicio integrador Nro 1.exe
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio integrador Nro 1\Ejercicio integrador Nro 1\obj\Debug\Ejercicio integrador Nro 1.pdb
