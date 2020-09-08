@@ -18,7 +18,7 @@ namespace Ejercicio_integrador_Nro_1
             do
             {
                 Console.ForegroundColor = ConsoleColor.Blue;
-                Console.WriteLine("\n******************************");
+                Console.WriteLine("\n*************MENU*************");
                 Console.ForegroundColor = ConsoleColor.White;
                 Console.WriteLine("1. Mostrar productos");
                 Console.WriteLine("2. Buscar producto");

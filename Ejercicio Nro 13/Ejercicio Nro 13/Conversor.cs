@@ -9,30 +9,74 @@ namespace Ejercicio_Nro_13
 {
     class Conversor
     {
-        public static int BinarioDecimal (string binario)
+        public static string DecimalBinario(int numero)
         {
-            int nroDecimal = 0;
-            int digito;
-            string copia;
-            int contador = 0;
-            int largo = binario.Length;
+            string resultado = "";
 
-            largo -= 1;
-
-            for (int i = binario.Length; i >= 0; i--)
+            if (numero > 0)
             {
-
-                copia = binario.Remove(contador, largo);
-                contador++;
-                if (int.TryParse(copia, out digito))
+                while (numero > 0)
                 {
-                    nroDecimal += (int) Math.Pow(digito * 2, i);
+                    if (numero % 2 == 0)
+                    {
+                        resultado = "0" + resultado;
+
+                    }
+                    else
+                    {
+                        resultado = "1" + resultado;
+                    }
+
+                    numero = numero / 2;
+
                 }
-                
+            }
+            else
+            {
+                resultado = "Valor invalido";
+            }
+
+            return resultado;
+        }
+
+        public static int BinarioDecimal(string binario)
+        {
+            double acumulador = 0;
+            char[] array = binario.ToCharArray();
+            Array.Reverse(array);
+
+            if (EsBinario(binario))
+            {
+                for (int i = 0; i < array.Length; i++)
+                {
+                    if (array[i] == '1')
+                    {
+                        acumulador += Math.Pow(2, i);
+                    }
+
+                }
+
             }
 
 
-            return nroDecimal;
+            return (int)acumulador;
+        }
+
+        private static bool EsBinario(string binario)
+        {
+            bool retorno = true;
+            char[] array = binario.ToCharArray();
+
+            for (int i = 0; i < array.Length; i++)
+            {
+                if (array[i] != '0' && array[i] != '1')
+                {
+                    retorno = false;
+                    break;
+                }
+            }
+
+            return retorno;
         }
     }
 }
