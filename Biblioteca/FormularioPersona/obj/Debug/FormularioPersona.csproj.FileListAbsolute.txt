@@ -1,0 +1,13 @@
+C:\Users\CX SLIM\source\repos\Biblioteca\FormularioPersona\bin\Debug\FormularioPersona.exe.config
+C:\Users\CX SLIM\source\repos\Biblioteca\FormularioPersona\bin\Debug\FormularioPersona.exe
+C:\Users\CX SLIM\source\repos\Biblioteca\FormularioPersona\bin\Debug\FormularioPersona.pdb
+C:\Users\CX SLIM\source\repos\Biblioteca\FormularioPersona\bin\Debug\Biblioteca.dll
+C:\Users\CX SLIM\source\repos\Biblioteca\FormularioPersona\bin\Debug\Biblioteca.pdb
+C:\Users\CX SLIM\source\repos\Biblioteca\FormularioPersona\obj\Debug\FormularioPersona.csprojAssemblyReference.cache
+C:\Users\CX SLIM\source\repos\Biblioteca\FormularioPersona\obj\Debug\FormularioPersona.Form1.resources
+C:\Users\CX SLIM\source\repos\Biblioteca\FormularioPersona\obj\Debug\FormularioPersona.Properties.Resources.resources
+C:\Users\CX SLIM\source\repos\Biblioteca\FormularioPersona\obj\Debug\FormularioPersona.csproj.GenerateResource.cache
+C:\Users\CX SLIM\source\repos\Biblioteca\FormularioPersona\obj\Debug\FormularioPersona.csproj.CoreCompileInputs.cache
+C:\Users\CX SLIM\source\repos\Biblioteca\FormularioPersona\obj\Debug\FormularioPersona.csproj.CopyComplete
+C:\Users\CX SLIM\source\repos\Biblioteca\FormularioPersona\obj\Debug\FormularioPersona.exe
+C:\Users\CX SLIM\source\repos\Biblioteca\FormularioPersona\obj\Debug\FormularioPersona.pdb

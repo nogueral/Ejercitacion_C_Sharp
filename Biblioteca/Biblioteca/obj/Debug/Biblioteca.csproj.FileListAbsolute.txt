@@ -1,0 +1,6 @@
+C:\Users\CX SLIM\source\repos\Biblioteca\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\CX SLIM\source\repos\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\CX SLIM\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\CX SLIM\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\CX SLIM\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\CX SLIM\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
