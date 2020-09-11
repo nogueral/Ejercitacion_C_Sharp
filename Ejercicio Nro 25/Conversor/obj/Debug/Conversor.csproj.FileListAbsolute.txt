@@ -1,0 +1,6 @@
+C:\Users\CX SLIM\source\repos\Ejercicio Nro 25\Conversor\bin\Debug\Conversor.dll
+C:\Users\CX SLIM\source\repos\Ejercicio Nro 25\Conversor\bin\Debug\Conversor.pdb
+C:\Users\CX SLIM\source\repos\Ejercicio Nro 25\Conversor\obj\Debug\Conversor.csprojAssemblyReference.cache
+C:\Users\CX SLIM\source\repos\Ejercicio Nro 25\Conversor\obj\Debug\Conversor.csproj.CoreCompileInputs.cache
+C:\Users\CX SLIM\source\repos\Ejercicio Nro 25\Conversor\obj\Debug\Conversor.dll
+C:\Users\CX SLIM\source\repos\Ejercicio Nro 25\Conversor\obj\Debug\Conversor.pdb

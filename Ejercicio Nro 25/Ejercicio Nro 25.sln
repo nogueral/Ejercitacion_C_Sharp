@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conversor", "Conversor\Conversor.csproj", "{587FC919-D925-478C-8878-F4591F6883FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormConversor", "FormConversor\FormConversor.csproj", "{A080C5A0-204D-490C-8316-19B3517B0FE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{587FC919-D925-478C-8878-F4591F6883FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{587FC919-D925-478C-8878-F4591F6883FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{587FC919-D925-478C-8878-F4591F6883FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{587FC919-D925-478C-8878-F4591F6883FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A080C5A0-204D-490C-8316-19B3517B0FE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A080C5A0-204D-490C-8316-19B3517B0FE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A080C5A0-204D-490C-8316-19B3517B0FE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A080C5A0-204D-490C-8316-19B3517B0FE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB88AFC6-E490-4B7D-AEEB-DC9AED2D2685}
+	EndGlobalSection
+EndGlobal

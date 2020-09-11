@@ -5,3 +5,10 @@ C:\Users\CX SLIM\source\repos\Ejercicio Nro 22\Ejercicio Nro 22\obj\Debug\Ejerci
 C:\Users\CX SLIM\source\repos\Ejercicio Nro 22\Ejercicio Nro 22\obj\Debug\Ejercicio Nro 22.csproj.CoreCompileInputs.cache
 C:\Users\CX SLIM\source\repos\Ejercicio Nro 22\Ejercicio Nro 22\obj\Debug\Ejercicio Nro 22.exe
 C:\Users\CX SLIM\source\repos\Ejercicio Nro 22\Ejercicio Nro 22\obj\Debug\Ejercicio Nro 22.pdb
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio Nro 22\Ejercicio Nro 22\bin\Debug\Ejercicio Nro 22.exe.config
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio Nro 22\Ejercicio Nro 22\bin\Debug\Ejercicio Nro 22.exe
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio Nro 22\Ejercicio Nro 22\bin\Debug\Ejercicio Nro 22.pdb
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio Nro 22\Ejercicio Nro 22\obj\Debug\Ejercicio Nro 22.csprojAssemblyReference.cache
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio Nro 22\Ejercicio Nro 22\obj\Debug\Ejercicio Nro 22.csproj.CoreCompileInputs.cache
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio Nro 22\Ejercicio Nro 22\obj\Debug\Ejercicio Nro 22.exe
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio Nro 22\Ejercicio Nro 22\obj\Debug\Ejercicio Nro 22.pdb

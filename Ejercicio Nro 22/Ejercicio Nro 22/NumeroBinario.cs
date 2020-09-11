@@ -15,6 +15,11 @@ namespace Ejercicio_Nro_22
             this.numero = numero;
         }
 
+        public string Numero
+        {
+            get { return this.numero; }
+        }
+
         public static string operator +(NumeroBinario bin, NumeroDecimal dec)
         {
             int auxNumero = Conversor.BinarioDecimal(bin.numero);
