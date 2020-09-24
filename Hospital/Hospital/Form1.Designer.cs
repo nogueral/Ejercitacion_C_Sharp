@@ -37,11 +37,12 @@
             this.lblDni = new System.Windows.Forms.Label();
             this.lblEspecialidad = new System.Windows.Forms.Label();
             this.cbEspecialidad = new System.Windows.Forms.ComboBox();
+            this.btnCerrar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnNombre
             // 
-            this.btnNombre.Location = new System.Drawing.Point(269, 276);
+            this.btnNombre.Location = new System.Drawing.Point(482, 345);
             this.btnNombre.Name = "btnNombre";
             this.btnNombre.Size = new System.Drawing.Size(110, 42);
             this.btnNombre.TabIndex = 0;
@@ -65,6 +66,7 @@
             this.txtNombre.Size = new System.Drawing.Size(191, 29);
             this.txtNombre.TabIndex = 2;
             this.txtNombre.Text = "Leandro";
+            this.txtNombre.Leave += new System.EventHandler(this.txtNombre_Leave);
             // 
             // txtApellido
             // 
@@ -73,6 +75,7 @@
             this.txtApellido.Size = new System.Drawing.Size(191, 29);
             this.txtApellido.TabIndex = 3;
             this.txtApellido.Text = "Noguera";
+            this.txtApellido.Leave += new System.EventHandler(this.txtNombre_Leave);
             // 
             // lblApellido
             // 
@@ -114,21 +117,27 @@
             // cbEspecialidad
             // 
             this.cbEspecialidad.FormattingEnabled = true;
-            this.cbEspecialidad.Items.AddRange(new object[] {
-            "Pediatria",
-            "Traumatologia",
-            "Psiquiatria",
-            "Neonatologia"});
             this.cbEspecialidad.Location = new System.Drawing.Point(251, 221);
             this.cbEspecialidad.Name = "cbEspecialidad";
             this.cbEspecialidad.Size = new System.Drawing.Size(191, 32);
             this.cbEspecialidad.TabIndex = 8;
+            // 
+            // btnCerrar
+            // 
+            this.btnCerrar.Location = new System.Drawing.Point(631, 345);
+            this.btnCerrar.Name = "btnCerrar";
+            this.btnCerrar.Size = new System.Drawing.Size(110, 42);
+            this.btnCerrar.TabIndex = 9;
+            this.btnCerrar.Text = "Cerrar";
+            this.btnCerrar.UseVisualStyleBackColor = true;
+            this.btnCerrar.Click += new System.EventHandler(this.btnCerrar_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 24F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnCerrar);
             this.Controls.Add(this.cbEspecialidad);
             this.Controls.Add(this.lblEspecialidad);
             this.Controls.Add(this.lblDni);
@@ -157,6 +166,7 @@
         private System.Windows.Forms.Label lblDni;
         private System.Windows.Forms.Label lblEspecialidad;
         private System.Windows.Forms.ComboBox cbEspecialidad;
+        private System.Windows.Forms.Button btnCerrar;
     }
 }
 

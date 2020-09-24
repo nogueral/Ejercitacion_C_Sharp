@@ -1,0 +1,6 @@
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio Nro 23\Moneda\bin\Debug\Moneda.dll
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio Nro 23\Moneda\bin\Debug\Moneda.pdb
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio Nro 23\Moneda\obj\Debug\Moneda.csprojAssemblyReference.cache
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio Nro 23\Moneda\obj\Debug\Moneda.csproj.CoreCompileInputs.cache
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio Nro 23\Moneda\obj\Debug\Moneda.dll
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio Nro 23\Moneda\obj\Debug\Moneda.pdb
