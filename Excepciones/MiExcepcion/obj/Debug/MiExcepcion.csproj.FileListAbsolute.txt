@@ -1,0 +1,6 @@
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Excepciones\MiExcepcion\bin\Debug\MiExcepcion.dll
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Excepciones\MiExcepcion\bin\Debug\MiExcepcion.pdb
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Excepciones\MiExcepcion\obj\Debug\MiExcepcion.csprojAssemblyReference.cache
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Excepciones\MiExcepcion\obj\Debug\MiExcepcion.csproj.CoreCompileInputs.cache
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Excepciones\MiExcepcion\obj\Debug\MiExcepcion.dll
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Excepciones\MiExcepcion\obj\Debug\MiExcepcion.pdb

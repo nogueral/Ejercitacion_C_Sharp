@@ -1,0 +1,13 @@
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Excepciones\FormExcepciones\bin\Debug\FormExcepciones.exe.config
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Excepciones\FormExcepciones\bin\Debug\FormExcepciones.exe
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Excepciones\FormExcepciones\bin\Debug\FormExcepciones.pdb
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Excepciones\FormExcepciones\bin\Debug\MiExcepcion.dll
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Excepciones\FormExcepciones\bin\Debug\MiExcepcion.pdb
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Excepciones\FormExcepciones\obj\Debug\FormExcepciones.csprojAssemblyReference.cache
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Excepciones\FormExcepciones\obj\Debug\FormExcepciones.Form1.resources
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Excepciones\FormExcepciones\obj\Debug\FormExcepciones.Properties.Resources.resources
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Excepciones\FormExcepciones\obj\Debug\FormExcepciones.csproj.GenerateResource.cache
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Excepciones\FormExcepciones\obj\Debug\FormExcepciones.csproj.CoreCompileInputs.cache
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Excepciones\FormExcepciones\obj\Debug\FormExcepciones.csproj.CopyComplete
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Excepciones\FormExcepciones\obj\Debug\FormExcepciones.exe
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Excepciones\FormExcepciones\obj\Debug\FormExcepciones.pdb

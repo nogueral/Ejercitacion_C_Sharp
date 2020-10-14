@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimorfismo", "Polimorfismo\Polimorfismo.csproj", "{1F400368-963A-4737-AEFF-09973155854E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EzzFest", "EzzFest\EzzFest.csproj", "{318230CD-C48D-4B78-A812-6E11DA1294E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F400368-963A-4737-AEFF-09973155854E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F400368-963A-4737-AEFF-09973155854E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F400368-963A-4737-AEFF-09973155854E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F400368-963A-4737-AEFF-09973155854E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{318230CD-C48D-4B78-A812-6E11DA1294E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{318230CD-C48D-4B78-A812-6E11DA1294E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{318230CD-C48D-4B78-A812-6E11DA1294E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{318230CD-C48D-4B78-A812-6E11DA1294E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01BBBE6A-47EB-4409-A969-75887F1229D0}
+	EndGlobalSection
+EndGlobal

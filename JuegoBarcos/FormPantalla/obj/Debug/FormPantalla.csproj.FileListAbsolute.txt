@@ -1,0 +1,13 @@
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\JuegoBarcos\FormPantalla\bin\Debug\FormPantalla.exe.config
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\JuegoBarcos\FormPantalla\bin\Debug\FormPantalla.exe
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\JuegoBarcos\FormPantalla\bin\Debug\FormPantalla.pdb
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\JuegoBarcos\FormPantalla\bin\Debug\Entidades.dll
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\JuegoBarcos\FormPantalla\bin\Debug\Entidades.pdb
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\JuegoBarcos\FormPantalla\obj\Debug\FormPantalla.csprojAssemblyReference.cache
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\JuegoBarcos\FormPantalla\obj\Debug\FormPantalla.Properties.Resources.resources
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\JuegoBarcos\FormPantalla\obj\Debug\FormPantalla.csproj.GenerateResource.cache
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\JuegoBarcos\FormPantalla\obj\Debug\FormPantalla.csproj.CoreCompileInputs.cache
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\JuegoBarcos\FormPantalla\obj\Debug\FormPantalla.csproj.CopyComplete
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\JuegoBarcos\FormPantalla\obj\Debug\FormPantalla.exe
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\JuegoBarcos\FormPantalla\obj\Debug\FormPantalla.pdb
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\JuegoBarcos\FormPantalla\obj\Debug\FormPantalla.FormPpal.resources
