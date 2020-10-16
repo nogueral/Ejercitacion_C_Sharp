@@ -20,7 +20,7 @@ namespace Test
             AutoF1 a5 = new AutoF1(16, "VW", 88);
             AutoF1 a6 = new AutoF1(23, "Fiat", 115);
 
-            Competencia competencia = new Competencia(4, 6, Competencia.TipoCompetencia.MotoCross);
+            Competencia competencia = new Competencia(4, 6, Competencia.TipoCompetencia.F1);
 
 
 
