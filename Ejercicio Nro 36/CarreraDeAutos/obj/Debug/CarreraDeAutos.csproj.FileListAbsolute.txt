@@ -1,0 +1,6 @@
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio Nro 36\CarreraDeAutos\bin\Debug\CarreraDeAutos.dll
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio Nro 36\CarreraDeAutos\bin\Debug\CarreraDeAutos.pdb
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio Nro 36\CarreraDeAutos\obj\Debug\CarreraDeAutos.csprojAssemblyReference.cache
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio Nro 36\CarreraDeAutos\obj\Debug\CarreraDeAutos.csproj.CoreCompileInputs.cache
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio Nro 36\CarreraDeAutos\obj\Debug\CarreraDeAutos.dll
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio Nro 36\CarreraDeAutos\obj\Debug\CarreraDeAutos.pdb
