@@ -1,0 +1,7 @@
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio Nro 30\Ejercicio Nro 30\bin\Debug\Ejercicio Nro 30.exe.config
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio Nro 30\Ejercicio Nro 30\bin\Debug\Ejercicio Nro 30.exe
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio Nro 30\Ejercicio Nro 30\bin\Debug\Ejercicio Nro 30.pdb
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio Nro 30\Ejercicio Nro 30\obj\Debug\Ejercicio Nro 30.csprojAssemblyReference.cache
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio Nro 30\Ejercicio Nro 30\obj\Debug\Ejercicio Nro 30.csproj.CoreCompileInputs.cache
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio Nro 30\Ejercicio Nro 30\obj\Debug\Ejercicio Nro 30.exe
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio Nro 30\Ejercicio Nro 30\obj\Debug\Ejercicio Nro 30.pdb
