@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CarreraDeAutos
 {
-    class CompetenciaNoDisponibleException : Exception
+    public class CompetenciaNoDisponibleException : Exception
     {
         string nombreClase;
         string nombreMetodo;

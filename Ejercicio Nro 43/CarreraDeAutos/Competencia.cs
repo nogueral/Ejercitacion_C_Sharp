@@ -19,6 +19,12 @@ namespace CarreraDeAutos
         TipoCompetencia tipo;
         List<VehiculoDeCarrera> competidores;
 
+        public List<VehiculoDeCarrera> Competidores
+        {
+            get { return this.competidores; }
+        }
+
+
         public short CantidadCompetidores { get => cantidadCompetidores; set => cantidadCompetidores = value; }
         public short CantidadVueltas { get => cantidadVueltas; set => cantidadVueltas = value; }
         internal TipoCompetencia Tipo { get => tipo; set => tipo = value; }
@@ -28,7 +34,7 @@ namespace CarreraDeAutos
             get { return this.competidores[i]; }
         }
 
-        public Competencia()
+        private Competencia()
         {
             competidores = new List<VehiculoDeCarrera>();
         }
