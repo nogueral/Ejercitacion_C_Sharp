@@ -1,0 +1,7 @@
+C:\Users\Isma\source\repos\SuperPolimorfismo\SuperPolimorfismo\bin\Debug\SuperPolimorfismo.exe.config
+C:\Users\Isma\source\repos\SuperPolimorfismo\SuperPolimorfismo\bin\Debug\SuperPolimorfismo.exe
+C:\Users\Isma\source\repos\SuperPolimorfismo\SuperPolimorfismo\bin\Debug\SuperPolimorfismo.pdb
+C:\Users\Isma\source\repos\SuperPolimorfismo\SuperPolimorfismo\obj\Debug\SuperPolimorfismo.csprojAssemblyReference.cache
+C:\Users\Isma\source\repos\SuperPolimorfismo\SuperPolimorfismo\obj\Debug\SuperPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Isma\source\repos\SuperPolimorfismo\SuperPolimorfismo\obj\Debug\SuperPolimorfismo.exe
+C:\Users\Isma\source\repos\SuperPolimorfismo\SuperPolimorfismo\obj\Debug\SuperPolimorfismo.pdb

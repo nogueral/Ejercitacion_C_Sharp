@@ -1,0 +1,13 @@
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\ClaseGenerica\ClaseGenerica\bin\Debug\ClaseGenerica.exe.config
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\ClaseGenerica\ClaseGenerica\bin\Debug\ClaseGenerica.exe
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\ClaseGenerica\ClaseGenerica\bin\Debug\ClaseGenerica.pdb
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\ClaseGenerica\ClaseGenerica\obj\Debug\ClaseGenerica.csprojAssemblyReference.cache
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\ClaseGenerica\ClaseGenerica\obj\Debug\ClaseGenerica.Form1.resources
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\ClaseGenerica\ClaseGenerica\obj\Debug\ClaseGenerica.Properties.Resources.resources
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\ClaseGenerica\ClaseGenerica\obj\Debug\ClaseGenerica.csproj.GenerateResource.cache
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\ClaseGenerica\ClaseGenerica\obj\Debug\ClaseGenerica.csproj.CoreCompileInputs.cache
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\ClaseGenerica\ClaseGenerica\obj\Debug\ClaseGenerica.exe
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\ClaseGenerica\ClaseGenerica\obj\Debug\ClaseGenerica.pdb
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\ClaseGenerica\ClaseGenerica\bin\Debug\Comercio.dll
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\ClaseGenerica\ClaseGenerica\bin\Debug\Comercio.pdb
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\ClaseGenerica\ClaseGenerica\obj\Debug\ClaseGenerica.csproj.CopyComplete
