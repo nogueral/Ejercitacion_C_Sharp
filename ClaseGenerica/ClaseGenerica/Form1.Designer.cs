@@ -38,6 +38,7 @@
             this.label3 = new System.Windows.Forms.Label();
             this.dgvPpal = new System.Windows.Forms.DataGridView();
             this.cmbPpal = new System.Windows.Forms.ComboBox();
+            this.button1 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvPpal)).BeginInit();
             this.SuspendLayout();
             // 
@@ -64,7 +65,7 @@
             // 
             // btnAceptar
             // 
-            this.btnAceptar.Location = new System.Drawing.Point(347, 149);
+            this.btnAceptar.Location = new System.Drawing.Point(319, 127);
             this.btnAceptar.Name = "btnAceptar";
             this.btnAceptar.Size = new System.Drawing.Size(136, 43);
             this.btnAceptar.TabIndex = 3;
@@ -130,11 +131,22 @@
             this.cmbPpal.Size = new System.Drawing.Size(121, 32);
             this.cmbPpal.TabIndex = 9;
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(521, 200);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(136, 43);
+            this.button1.TabIndex = 10;
+            this.button1.Text = "Reflection";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 24F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.cmbPpal);
             this.Controls.Add(this.dgvPpal);
             this.Controls.Add(this.label3);
@@ -166,6 +178,7 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.DataGridView dgvPpal;
         private System.Windows.Forms.ComboBox cmbPpal;
+        private System.Windows.Forms.Button button1;
     }
 }
 

@@ -49,6 +49,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entidades\FormABM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Entidades\FormABM.Designer.cs">
+      <DependentUpon>FormABM.cs</DependentUpon>
+    </Compile>
     <Compile Include="Entidades\Validaciones.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
