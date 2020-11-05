@@ -1,0 +1,6 @@
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\EntidadesSQL\Entidades\bin\Debug\Entidades.dll
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\EntidadesSQL\Entidades\bin\Debug\Entidades.pdb
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\EntidadesSQL\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\EntidadesSQL\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\EntidadesSQL\Entidades\obj\Debug\Entidades.dll
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\EntidadesSQL\Entidades\obj\Debug\Entidades.pdb
