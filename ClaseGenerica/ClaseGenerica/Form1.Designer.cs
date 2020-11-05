@@ -36,10 +36,8 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
-            this.dgvPpal = new System.Windows.Forms.DataGridView();
-            this.cmbPpal = new System.Windows.Forms.ComboBox();
             this.button1 = new System.Windows.Forms.Button();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvPpal)).BeginInit();
+            this.btnForm2 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // txtMinimo
@@ -65,7 +63,7 @@
             // 
             // btnAceptar
             // 
-            this.btnAceptar.Location = new System.Drawing.Point(319, 127);
+            this.btnAceptar.Location = new System.Drawing.Point(319, 365);
             this.btnAceptar.Name = "btnAceptar";
             this.btnAceptar.Size = new System.Drawing.Size(136, 43);
             this.btnAceptar.TabIndex = 3;
@@ -109,31 +107,9 @@
             this.label3.TabIndex = 7;
             this.label3.Text = "Valor";
             // 
-            // dgvPpal
-            // 
-            this.dgvPpal.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvPpal.Location = new System.Drawing.Point(69, 247);
-            this.dgvPpal.Name = "dgvPpal";
-            this.dgvPpal.RowHeadersWidth = 72;
-            this.dgvPpal.RowTemplate.Height = 31;
-            this.dgvPpal.Size = new System.Drawing.Size(414, 150);
-            this.dgvPpal.TabIndex = 8;
-            // 
-            // cmbPpal
-            // 
-            this.cmbPpal.FormattingEnabled = true;
-            this.cmbPpal.Items.AddRange(new object[] {
-            "Productos",
-            "Clientes",
-            "Empleados"});
-            this.cmbPpal.Location = new System.Drawing.Point(536, 149);
-            this.cmbPpal.Name = "cmbPpal";
-            this.cmbPpal.Size = new System.Drawing.Size(121, 32);
-            this.cmbPpal.TabIndex = 9;
-            // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(521, 200);
+            this.button1.Location = new System.Drawing.Point(521, 365);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(136, 43);
             this.button1.TabIndex = 10;
@@ -141,14 +117,23 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
+            // btnForm2
+            // 
+            this.btnForm2.Location = new System.Drawing.Point(122, 365);
+            this.btnForm2.Name = "btnForm2";
+            this.btnForm2.Size = new System.Drawing.Size(136, 43);
+            this.btnForm2.TabIndex = 11;
+            this.btnForm2.Text = "Listas";
+            this.btnForm2.UseVisualStyleBackColor = true;
+            this.btnForm2.Click += new System.EventHandler(this.btnForm2_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 24F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnForm2);
             this.Controls.Add(this.button1);
-            this.Controls.Add(this.cmbPpal);
-            this.Controls.Add(this.dgvPpal);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
@@ -160,7 +145,6 @@
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Validaciones";
-            ((System.ComponentModel.ISupportInitialize)(this.dgvPpal)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -176,9 +160,8 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.DataGridView dgvPpal;
-        private System.Windows.Forms.ComboBox cmbPpal;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnForm2;
     }
 }
 

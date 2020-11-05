@@ -40,37 +40,23 @@ namespace ClaseGenerica
                 this.txtValorAValidar.Text = "";
             }
 
-            switch (this.cmbPpal.SelectedItem.ToString())
-            {
-                case "Productos":
-                    Inventario.HardcodeoProductosPerecederos();
-                    ActualizarDatagridview<List<Producto>>(Inventario.ListaProductos);
-                    break;
-                case "Clientes":
-                    Inventario.HardcodeoClientes();
-                    ActualizarDatagridview<List<Cliente>>(Inventario.GetListaClientes());
-                    break;
-                case "Empleados":
-                    Inventario.HardcodeoEmpleados();
-                    ActualizarDatagridview<List<Empleado>>(Inventario.GetListaEmpleados());
-                    break;
 
-            }
 
 
         }
 
-        private void ActualizarDatagridview<T> (T lista)
-        {
-            this.dgvPpal.DataSource = null;
-            this.dgvPpal.DataSource = lista;
-            this.dgvPpal.Refresh();
-        }
+
 
         private void button1_Click(object sender, EventArgs e)
         {
             FormABM<ProductoPerecedero> obj = new FormABM<ProductoPerecedero>(new ProductoPerecedero("Leche", 18, 82.30, 43, Producto.ETipo.perecedero));
             obj.Show();
+        }
+
+        private void btnForm2_Click(object sender, EventArgs e)
+        {
+            Form2 auxForm = new Form2();
+            auxForm.Show();
         }
     }
 }

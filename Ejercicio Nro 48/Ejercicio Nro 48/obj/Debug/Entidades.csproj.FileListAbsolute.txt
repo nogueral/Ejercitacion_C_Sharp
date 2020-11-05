@@ -1,0 +1,6 @@
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio Nro 48\Ejercicio Nro 48\bin\Debug\Ejercicio Nro 48.dll
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio Nro 48\Ejercicio Nro 48\bin\Debug\Ejercicio Nro 48.pdb
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio Nro 48\Ejercicio Nro 48\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio Nro 48\Ejercicio Nro 48\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio Nro 48\Ejercicio Nro 48\obj\Debug\Ejercicio Nro 48.dll
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Ejercicio Nro 48\Ejercicio Nro 48\obj\Debug\Ejercicio Nro 48.pdb

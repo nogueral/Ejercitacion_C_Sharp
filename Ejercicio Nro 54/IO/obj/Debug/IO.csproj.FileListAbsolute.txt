@@ -1,0 +1,6 @@
+C:\Users\CX SLIM\Desktop\Ejercicio Nro 54\IO\bin\Debug\IO.dll
+C:\Users\CX SLIM\Desktop\Ejercicio Nro 54\IO\bin\Debug\IO.pdb
+C:\Users\CX SLIM\Desktop\Ejercicio Nro 54\IO\obj\Debug\IO.csprojAssemblyReference.cache
+C:\Users\CX SLIM\Desktop\Ejercicio Nro 54\IO\obj\Debug\IO.csproj.CoreCompileInputs.cache
+C:\Users\CX SLIM\Desktop\Ejercicio Nro 54\IO\obj\Debug\IO.dll
+C:\Users\CX SLIM\Desktop\Ejercicio Nro 54\IO\obj\Debug\IO.pdb

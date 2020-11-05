@@ -11,3 +11,4 @@ C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\ClaseGenerica\ClaseGenerica\obj\De
 C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\ClaseGenerica\ClaseGenerica\bin\Debug\Comercio.dll
 C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\ClaseGenerica\ClaseGenerica\bin\Debug\Comercio.pdb
 C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\ClaseGenerica\ClaseGenerica\obj\Debug\ClaseGenerica.csproj.CopyComplete
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\ClaseGenerica\ClaseGenerica\obj\Debug\ClaseGenerica.Form2.resources
