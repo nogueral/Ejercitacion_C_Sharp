@@ -1,0 +1,12 @@
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Delegados\FormDelegados\bin\Debug\FormDelegados.exe.config
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Delegados\FormDelegados\bin\Debug\FormDelegados.exe
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Delegados\FormDelegados\bin\Debug\FormDelegados.pdb
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Delegados\FormDelegados\obj\Debug\FormDelegados.csprojAssemblyReference.cache
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Delegados\FormDelegados\obj\Debug\FormDelegados.FormPrincipal.resources
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Delegados\FormDelegados\obj\Debug\FormDelegados.FormEmisor.resources
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Delegados\FormDelegados\obj\Debug\FormDelegados.FormReceptor.resources
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Delegados\FormDelegados\obj\Debug\FormDelegados.Properties.Resources.resources
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Delegados\FormDelegados\obj\Debug\FormDelegados.csproj.GenerateResource.cache
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Delegados\FormDelegados\obj\Debug\FormDelegados.csproj.CoreCompileInputs.cache
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Delegados\FormDelegados\obj\Debug\FormDelegados.exe
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Delegados\FormDelegados\obj\Debug\FormDelegados.pdb

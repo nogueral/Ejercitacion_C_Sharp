@@ -12,28 +12,33 @@ namespace Base_de_datos
     {
         static void Main(string[] args)
         {
-            List<Persona> listaPersonas = new List<Persona>();
-            int dni;
+            //List<Persona> listaPersonas = new List<Persona>();
+            //int dni;
             int id;
-
+            string nombre = "chocolate";
+            double precio = 62.87;
+            
             SqlConnection miConexion = new SqlConnection();
-            string path = "Data Source=agasoluciones.dynamic-dns.net\\mssqlserver2; Initial Catalog = Mensajes; User Id=Alumno;Password=FraUtn;";
+            string path = "Data Source=.\\sqlexpress; Initial Catalog=Mensajeria; Integrated Security=True;";
             miConexion.ConnectionString = path;
 
             SqlCommand miComando = new SqlCommand();
             miComando.Connection = miConexion;
             miComando.CommandType = CommandType.Text;
-            miComando.CommandText = "Select * From Personas where id > 10 and id < 20";
+            //miComando.CommandText = "Select * From Valores";
             miConexion.Open();
 
             //SqlDataReader reader = miComando.ExecuteReader();
 
             //while (reader.Read())
             //{
-            //    if (int.TryParse(reader["DNI"].ToString(), out dni) && int.TryParse(reader["Id"].ToString(), out id))
-            //    {
-            //        listaPersonas.Add(new Persona(reader["Nombre"].ToString(), reader["Apellido"].ToString(), dni, id));
-            //    }
+            //    nombre = reader["descripcion"].ToString();
+            //    double.TryParse(reader["valor"].ToString(), out precio);
+            //    int.TryParse(reader["id"].ToString(), out id);
+            //    //if (int.TryParse(reader["DNI"].ToString(), out dni) && int.TryParse(reader["Id"].ToString(), out id))
+            //    //{
+            //    //    listaPersonas.Add(new Persona(reader["Nombre"].ToString(), reader["Apellido"].ToString(), dni, id));
+            //    //}
             //}
 
             //foreach (Persona pers in listaPersonas)
@@ -42,8 +47,11 @@ namespace Base_de_datos
             //}
 
             //reader.Close();
-
-            miComando.CommandText = "Update Personas set DNI = 22222 where id = 52";
+            //string nombre = "hola";
+            //float precio = 40;
+            miComando.CommandText = $"INSERT INTO Valores(descripcion,valor)VALUES(@auxNombre, @auxPrecio)";
+            miComando.Parameters.Add(new SqlParameter("@auxNombre", nombre));
+            miComando.Parameters.Add(new SqlParameter("@auxPrecio", precio));
             if (miComando.ExecuteNonQuery() == 1)
             {
                 Console.WriteLine("Operacion exitosa");

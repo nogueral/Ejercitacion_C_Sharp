@@ -1,0 +1,7 @@
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Punta de Caja\Punta de Caja\bin\Debug\Punta de Caja.exe.config
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Punta de Caja\Punta de Caja\bin\Debug\Punta de Caja.exe
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Punta de Caja\Punta de Caja\bin\Debug\Punta de Caja.pdb
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Punta de Caja\Punta de Caja\obj\Debug\Punta de Caja.csprojAssemblyReference.cache
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Punta de Caja\Punta de Caja\obj\Debug\Punta de Caja.csproj.CoreCompileInputs.cache
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Punta de Caja\Punta de Caja\obj\Debug\Punta de Caja.exe
+C:\Users\CX SLIM\Desktop\Ejercitacion_C_Sharp\Punta de Caja\Punta de Caja\obj\Debug\Punta de Caja.pdb
